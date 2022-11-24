@@ -1,3 +1,0 @@
-# Minu Päev
-
-Test
